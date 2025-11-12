@@ -1,0 +1,27 @@
+# Sentinel Audit Dashboard V1.6 - Requirements
+
+# GUI Framework
+# tkinter is included with Python standard library
+
+# Date picker widget
+tkcalendar>=1.6.1
+
+# Data processing
+pandas>=2.0.0
+openpyxl>=3.1.0
+xlrd>=2.0.1
+
+# Image handling
+Pillow>=10.0.0
+
+# Charting
+matplotlib>=3.7.0
+
+# AI Integration
+anthropic>=0.18.0
+
+# Email Scheduling
+schedule>=1.2.0
+
+# Note: If you encounter issues with tkinter on Linux, install it using:
+# sudo apt-get install python3-tk
